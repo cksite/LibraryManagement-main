@@ -53,7 +53,7 @@ const addUser = async (req, res) => {
       return res.status(403).json({success: false, message: "User already exists"});
     } else {
       const newUser = new User(req.body);
-      newUser.setPassword(req.body.password);
+      // newUser.setPassword(req.body.password);
       newUser.save((err, user) => {
         if (err) {
           return res.status(400).json({success: false, err});
@@ -66,6 +66,34 @@ const addUser = async (req, res) => {
     }
   })
 }
+
+// chatgpt
+
+// const addUser = async (req, res) => {
+//   const newUser = req.body; // You don't need the second declaration of newUser below
+//   console.log(req.body);
+
+//   User.findOne({ email: newUser.email }, (err, user) => {
+//     if (err) {
+//       return res.status(400).json({ success: false, err });
+//     }
+//     if (user) {
+//       return res.status(403).json({ success: false, message: "User already exists" });
+//     } else {
+//       const userToAdd = new User(newUser); // Use newUser directly here
+//       userToAdd.save((err, user) => {
+//         if (err) {
+//           return res.status(400).json({ success: false, err });
+//         }
+//         return res.status(201).json({
+//           success: true,
+//           user
+//         });
+//       });
+//     }
+//   });
+// };
+
 
 const updateUser = async (req, res) => {
     const userId = req.params.id

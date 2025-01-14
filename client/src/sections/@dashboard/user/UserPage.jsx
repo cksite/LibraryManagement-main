@@ -95,6 +95,8 @@ const UserPage = () => {
       });
   };
 
+  
+  
   const addUser = () => {
     axios.post(apiUrl(routes.USER, methods.POST), user)
       .then((response) => {
@@ -113,6 +115,28 @@ const UserPage = () => {
         }
       });
   };
+
+// chatgpt
+
+// const addUser = () => {
+//   axios.post(apiUrl(routes.USER, methods.POST), user)
+//     .then((response) => {
+//       console.log(response.data);
+//       toast.success("User added");
+//       handleCloseModal();
+//       getAllUsers();
+//       clearForm();
+//     })
+//     .catch((error) => {
+//       if (error.response.status === 403) {
+//         toast.error("User already exists");
+//       } else {
+//         console.log(error);
+//         toast.error("Something went wrong, please try again");
+//       }
+//     });
+// };
+
 
   const updateUser = () => {
     axios.put(apiUrl(routes.USER, methods.PUT, selectedUserId), user)

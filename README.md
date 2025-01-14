@@ -107,15 +107,15 @@ npm start
 3. Use the following demo accounts to login
 - Librarian
 ```
-Email address: testlibrarian@library.com
-Password: librarian123
+Email address: a@gmail.com
+Password: 123
 ```
 
-- Member
+<!-- - Member
 ```
 Email address: testmember@library.com
 Password: member123
-```
+``` -->
 
 <!-- HELP -->
 
@@ -125,13 +125,13 @@ Contact authors if you need help or run into any issues
 
 <!-- AUTHORS -->
 
-## 👥 Authors
+<!-- ## 👥 Authors
 
   - Sandul Renuja | 2020/CS/054 - 2020cs054@stu.ucsc.cmb.ac.lk
   - Abdullah Jasmin | 2020/CS/002 - 2020cs002@stu.ucsc.cmb.ac.lk
   - Ravindu Wegiriya | 2020/CS/204 - 2020cs204@stu.ucsc.cmb.ac.lk
   - Kaveesha Muthukuda | 2020/CS/118 - 2020cs118@stu.ucsc.cmb.ac.lk
-  - Induwara Pathirana | 2020/CS/126 - 2020cs126@stu.ucsc.cmb.ac.lk
+  - Induwara Pathirana | 2020/CS/126 - 2020cs126@stu.ucsc.cmb.ac.lk -->
 
 <!-- FILE STRUCTURE -->
 
