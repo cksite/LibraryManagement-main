@@ -10,7 +10,11 @@
     "mongodb"
   ],
   "authors": [
-    "Chandan"
+    "chandan",
+    "Abdullah Jasmine",
+    "Ravindu Wegiriya",
+    "Kaveesha Muthukuda",
+    "Induwara Pathirana"
   ],
   "main": "index.js",
   "scripts": {

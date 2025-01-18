@@ -98,7 +98,7 @@ const addUser = async (req, res) => {
 const updateUser = async (req, res) => {
     const userId = req.params.id
   const updatedUser = new User(req.body)
-    updatedUser.setPassword(req.body.password);
+    // updatedUser.setPassword(req.body.password);
 
     User.findByIdAndUpdate(userId,updatedUser, (err, user) => {
         if (err) {
