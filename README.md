@@ -55,20 +55,7 @@ Members can:
 - Add (C)
   - Own borrowals
   
-### Built with
-<div style="display:inline-block">
-<img alt="MongoDB"src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" width="128"/>
-<img alt="Node.js" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" width="128"/>
-<img alt="NPM" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/npm.svg" width="128"/>
-<img alt="React" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" width="128"/>
-<img alt="Git" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" width="128"/>
-<img alt="Github" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" width="128"/>
-<img alt="VS Code" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="128"/>
-<img alt="HTML" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width="128"/>
-<img alt="CSS" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="128"/>
-<img alt="JS" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width="128"/>
 
-</div>
 
 <!-- GETTING STARTED -->
 
@@ -111,11 +98,6 @@ Email address: a@gmail.com
 Password: 123
 ```
 
-<!-- - Member
-```
-Email address: testmember@library.com
-Password: member123
-``` -->
 
 <!-- HELP -->
 
@@ -123,15 +105,6 @@ Password: member123
 
 Contact authors if you need help or run into any issues
 
-<!-- AUTHORS -->
-
-<!-- ## 👥 Authors
-
-  - Sandul Renuja | 2020/CS/054 - 2020cs054@stu.ucsc.cmb.ac.lk
-  - Abdullah Jasmin | 2020/CS/002 - 2020cs002@stu.ucsc.cmb.ac.lk
-  - Ravindu Wegiriya | 2020/CS/204 - 2020cs204@stu.ucsc.cmb.ac.lk
-  - Kaveesha Muthukuda | 2020/CS/118 - 2020cs118@stu.ucsc.cmb.ac.lk
-  - Induwara Pathirana | 2020/CS/126 - 2020cs126@stu.ucsc.cmb.ac.lk -->
 
 <!-- FILE STRUCTURE -->
 
@@ -205,13 +178,7 @@ Contact authors if you need help or run into any issues
 
 <!-- VERSION HISTORY -->
 
-## 📄 Version History
 
-* 1.1
-    * Various bug fixes and optimizations
-    * See [dev branch commit history](https://github.com/MERNRAD/LibraryManagement/commits/dev)
-* 1.0
-    * Initial Release
     
 <!-- LICENSE -->
 
