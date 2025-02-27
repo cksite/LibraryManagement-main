@@ -94,8 +94,8 @@ npm start
 3. Use the following demo accounts to login
 - Librarian
 ```
-Email address: a@gmail.com
-Password: 123
+Email address: raj@gmail.com
+Password: 123456
 ```
 
 
